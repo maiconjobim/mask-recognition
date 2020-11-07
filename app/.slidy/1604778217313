@@ -1,0 +1,10 @@
+mask_recognition/lib/main.dart
+mask_recognition/lib/app/app_module.dart
+mask_recognition/lib/app/app_widget.dart
+mask_recognition/lib/app/modules/home/home_module.dart
+mask_recognition/lib/app/app_controller.dart
+mask_recognition/lib/app/modules/home/home_page.dart
+mask_recognition/test/app/app_controller_test.dart
+mask_recognition/test/app/modules/home/home_page_test.dart
+mask_recognition/lib/app/modules/home/home_controller.dart
+mask_recognition/test/app/modules/home/home_controller_test.dart
